@@ -1,5 +1,5 @@
 # 🏆 Social Influencer Platform & Lifestyle Competition
----
+
 
 Rebuilding from the foundation of the 2022 competition system, this project evolves into a modern social influencer competition and lifestyle platform. A digital ecosystem where influencers and creators can host, join, and promote healthy lifestyle challenges and services.
 
