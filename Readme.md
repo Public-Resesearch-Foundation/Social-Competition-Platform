@@ -1,4 +1,4 @@
-# 🏆 Social Influencer Platform & Lifestyle Competition
+# 🏆 Social influencer platform & lifestyle competition
 
 
 Rebuilding from the foundation of the social influencer platform branch (2022), this project evolves into a modern competition system and lifestyle platform. A digital ecosystem where influencers and creators can host, join, and promote healthy lifestyle challenges and services.
@@ -19,7 +19,7 @@ This README describes the **background**, **architecture**, **stack**, **feature
 ## 🧭 Background
 
 ### Original Vision (2017)
-The Social Influencer Platform is a next-generation social and lifestyle engagement system that allows influencers and users to participate in lifestyle competitions.
+The Social Influencer Platform is a next-generation social and lifestyle engagement system that allows influencers and creators to participate in lifestyle competitions.
 It provides a space where participants can:
 
 ### Early Success
