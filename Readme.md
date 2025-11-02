@@ -54,7 +54,7 @@ The **Compition** system is designed with a **modular monorepo architecture** to
 
 ### 🔹 High-Level Structure
 ```bash
-/virtual-contest
+/social-competition-platform
 │
 ├── /server # Backend (Node.js API)
 │ ├── /models # Sample data models (dummy data)
@@ -250,6 +250,7 @@ The original project was maintained as a **private repository** with **invitatio
 ## 🏁 Conclusion
 
 The **Social Influencer Platform** project illustrates how **modern frameworks, and cloud computing** can transform sports competitions.  
+
 By combining **automation**, **fairness**, and **scalability**, this platform provides a practical blueprint for future **AI-driven social systems**.
 
 This repository highlights both the **technical depth** and **architectural foresight** behind the project — evolving from a private licensed framework into a **modern, modular, and public-ready social platform**.
@@ -304,4 +305,4 @@ SOFTWARE.
 **[Elias Research]**  
 Full-Stack Developer | AI & Cloud Engineer  
 📧 [arbeidspost.efa@outlook.com]  
-🌐 [[Your LinkedIn or Portfolio Link](https://www.linkedin.com/in/elias-a-8591b4173/)]
+🌐 [[Author](https://www.linkedin.com/in/elias-a-8591b4173/)]
